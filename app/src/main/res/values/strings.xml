@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Universal</string>
+    <string name="action_settings">Settings</string>
+    <string name="Hello_world">Hello world !</string>
+    <string name="button_text">update </string>
+    <string name="button_second_text">changer texte</string>
+    <string name="msg">done, thanks</string>
+    <string name="hello_info">Enjoy surfing in our unique application which il will help you in the selection of your beer</string>
+    <string name="title_activity_seconde">Seconde page</string>
+    <string name="hello_world">How are tou</string>
+    <string name="msgxos"> swipe from the right to the left </string>
+
+
+</resources>

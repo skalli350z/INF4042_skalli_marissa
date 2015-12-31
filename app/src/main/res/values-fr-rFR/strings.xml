@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mondial</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="Hello_world">Hello world !</string>
+    <string name="button_text">update </string>
+    <string name="button_second_text">changer texte</string>
+    <string name="msg">c est fait ! merci</string>
+    <string name="title_activity_seconde">Seconde page</string>
+    <string name="hello_info">Bonne navigation dans notre application inédite qui vous aidera dans la séléction de votre bière de la soirée</string>
+    <string name="msgxos">glisser de la droite vers la gauche </string>
+
+
+
+</resources>
